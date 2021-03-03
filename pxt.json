@@ -8,9 +8,6 @@
         "assets.jres",
         "assets.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
     "targetVersions": {
         "target": "1.3.44",
         "targetId": "arcade"
