@@ -56,5 +56,7 @@ namespace storySprites {
     //% fixedInstance jres blockIdentity=images._image
     //% tags="background"
     export const castle2 = image.ofBuffer(hex``);
-
+    //% fixedInstance jres blockIdentity=images._image
+    //% tags="background"
+    export const muffinOven = image.ofBuffer(hex``);
 }
