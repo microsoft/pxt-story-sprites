@@ -5,26 +5,13 @@
         "device": "*"
     },
     "files": [
-        "birthday.jres",
         "birthdayText.jres",
-        "castle.jres",
-        "castle2.jres",
         "earthdayText.jres",
-        "field.jres",
-        "halloween.jres",
         "halloweenText.jres",
-        "holiday.jres",
-        "holiday2.jres",
         "holidayText.jres",
-        "lake.jres",
-        "mistletoe.jres",
         "muffinOven.jres",
-        "ocean.jres",
-        "sky.jres",
         "trees.jres",
-        "valentines.jres",
         "valentinesText.jres",
-        "world.jres",
         "assets.ts"
     ],
     "targetVersions": {
